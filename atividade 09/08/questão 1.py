@@ -3,7 +3,7 @@ contagem = 0
 
 for numero in range(50,70):
     if numero % 2 == 0:
-        soma += numero
+        soma += numero# soma = soma + numero
         contagem += 1
 
 média = soma / contagem
