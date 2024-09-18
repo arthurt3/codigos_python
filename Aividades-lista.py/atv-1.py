@@ -10,4 +10,4 @@ for numero in valores:
         imp += 1
 
 #Mostrando a quantidade de números ímpares na lista
-print(f"Existem {imp} números ímpares")
+print(f"Existem {imp} números ímpares"),
